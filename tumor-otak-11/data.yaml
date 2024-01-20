@@ -9,6 +9,6 @@ roboflow:
   url: https://universe.roboflow.com/sriwijaya-university-hivwu/tumor-otak-tbpou/dataset/11
   version: 11
   workspace: sriwijaya-university-hivwu
-test: ../test/images
-train: tumor-otak-11/train/images
-val: tumor-otak-11/valid/images
+test: test/images
+train: train/images
+val: valid/images
