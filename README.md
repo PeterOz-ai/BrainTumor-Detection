@@ -7,9 +7,9 @@ Using object detection and instance segmentation on MRI scans of the brain offer
 
 It is important to note that while object detection and instance segmentation provide valuable assistance, their outputs should always be carefully reviewed by medical professionals. The final diagnosis and treatment decisions should be made by experienced healthcare providers who integrate these findings with their clinical expertise.
 
-Paulina Cattau
-Lutholwethu Dabula
-Ludovico Gandolfi  
-Pedro Olivares Sáinz 
-Roberta Troccoli
+Paulina Cattau,
+Lutholwethu Dabula,
+Ludovico Gandolfi,  
+Pedro Olivares Sáinz, 
+Roberta Troccoli,
 Roman Zotkin
